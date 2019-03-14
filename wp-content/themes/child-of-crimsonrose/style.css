@@ -1,0 +1,166 @@
+/*
+ Theme Name:   Child of Crimson Rose
+ Description:  Twenty Fifteen Child Theme
+ Template:     crimson-rose
+ Version:      1.0.0
+*/
+
+.posttekst{
+	padding: 5%;
+	line-height: 1.7;
+}
+p {
+	margin: 0;
+}
+.postheader h2{
+	color: white;
+}
+.site-info-wrapper .site-info{
+	background-color: #b76b5e;
+	margin-top: -90px;
+}
+
+a.ig-b-.ig-b-v-24{
+	border: none;
+	color: white !important;
+}
+a.ig-b-.ig-b-v-24:hover{
+	border-color: none;
+	color: #b76b5e !important;
+	background-color: #ecd7ce !important;
+	border-radius: 300px;
+}
+
+.widget .widget-title{
+	color: white;
+}
+
+input#nf-field-4.ninja-forms-field.nf-element {
+	background-color: #5c5e63;
+}
+input#nf-field-4.ninja-forms-field.nf-element:hover {
+	background-color: #484a4f;
+}
+
+label#nf-label-field-1, label#nf-label-field-2, label#nf-label-field-3 {
+	color: white;
+}
+
+body {
+	font-family: montserrat;
+}
+
+
+#citat{
+	margin-top:47%;
+	margin-right:3%;
+	margin-left:-5%;
+	font-size:1.1em;
+	font-weight:bold;
+}
+
+#rytmiktekst{
+	margin-top: 11%;
+	line-height: 1.7;
+	margin-left:5%;
+}
+
+a.tilbyderlink {
+	color: #996f76;
+	font-weight: 700;
+}
+
+#pg-gb9-5c88d1341717b-0.panel-has-style > .panel-row-style
+.widget p > a {
+	margin: 0 2%;
+}
+
+
+#content.site-content {
+	padding-bottom: 0;
+	padding-top:2%;
+}
+footer{
+	background-color:#b76b5e;
+	margin-top: 5%;
+	padding-top: -20%;	
+}
+
+.entry-footer-meta{
+	display: none;
+}
+
+.site-branding{
+	margin-bottom:3.5%;
+}
+
+#site-navigation ul a:hover {
+	color: #d66c83;
+}
+
+.main-menu a {
+	background-color: white;
+}
+
+html {
+  font-family: montserrat;
+}
+
+
+#master form label {
+		margin-top: 7%;
+		text-align: center;
+		font-family:montserrat;
+	}
+
+#master form > p {
+	margin-top: 7%;
+	font-size: 1.1em;
+}
+
+
+
+.tilmeldtekst{
+	text-align:center;
+}
+
+input::before {
+	color: white;
+}
+
+.wpcf7-form-control.wpcf7-checkbox.wpcf7-exclusive-checkbox.babycheckbox{
+	margin-left:20%;
+}
+.wpcf7-form-control.wpcf7-checkbox.wpcf7-exclusive-checkbox.brncheckbox{
+	margin-left:17%;
+}
+
+h1.entry-title{
+	display: none;
+}
+.siteorigin-panels-stretch panel-row-style panel-row-style-for-gb11-5c88dd58a2c1b-0 {
+	margin-top: 10%;
+}
+
+
+input:active {
+	background: white;
+}
+
+
+
+.wpcf7.input[type="submit"]
+{
+	background-color: #5c5e63;
+}
+
+.copy {
+	color: white;
+	font-size: 0.75em;
+}
+
+
+input.wpcf7-form-control.wpcf7-submit {
+    margin-left: 38%;
+}
+

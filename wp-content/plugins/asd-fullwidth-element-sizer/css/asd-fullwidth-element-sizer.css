@@ -1,0 +1,8 @@
+.fullwidth-element ,
+div.fullwidth-element ,
+figure.fullwidth-element ,
+img.fullwidth-element ,
+span.fullwidth-element ,
+.fullwidth-element img {
+   max-width: unset!important;
+}
